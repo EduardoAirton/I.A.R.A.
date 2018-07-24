@@ -5,8 +5,8 @@ Inteligência Artificial Referente a Assistência (artificial intelligence refer
 
 * **Caio Noronha**
 * **Eduardo Airton** - [GitHub](https://github.com/EduardoAirton) - [Linkedin](https://www.linkedin.com/in/eduardo-airton/)
-* **Luca Peres** - 
-* **Pedro Cavalcante**
-* **Samuel Abreu**
+* **Luca Peres** - - [GitHub](https://github.com/PedroCavati)
+* **Pedro Cavalcante**- [GitHub](https://github.com/LucaPres)
+* **Samuel Abreu** - [GitHub](https://github.com/Samuel-Abreu)
 
 

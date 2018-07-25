@@ -3,7 +3,7 @@ Inteligência Artificial Referente a Assistência (artificial intelligence refer
 
 ## Authors
 
-* **Caio Noronha**
+* **Caio Noronha** - [GitHub](https://github.com/Caivis)
 * **Eduardo Airton** - [GitHub](https://github.com/EduardoAirton) - [Linkedin](https://www.linkedin.com/in/eduardo-airton/)
 * **Luca Peres** - - [GitHub](https://github.com/PedroCavati)
 * **Pedro Cavalcante**- [GitHub](https://github.com/LucaPres)

@@ -16,12 +16,12 @@ body {
 }
 
 a {
-    color: #e38cb7;
+    color: #0c1d8e;
 }
 
 a:hover,
 a:focus {
-    color: #d6619c;
+    color: #0c1d8e;
 }
 
 h1 {
@@ -84,7 +84,7 @@ p.lead {
 }
 
 .btn-outline-light:hover {
-    color: #d6619c;
+    color: #061981;
 }
 
 .btn-primary {
@@ -190,7 +190,7 @@ p.lead {
     }
     .navbar-nav>.nav-item>.nav-link.active:after {
         content: "";
-        border-bottom: 2px solid #cd99d4;
+        border-bottom: 2px solid #ffffff;
         left: 1rem;
         right: 1rem;
         bottom: 5px;

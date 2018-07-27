@@ -416,3 +416,95 @@ header {
     margin-right: 0.4rem;
     vertical-align: text-bottom;
 }
+/*--about start here--*/
+.about {
+    padding: 6em 0em;
+    min-height: 800px;
+    background-size: cover;
+}
+span.devide-line {
+    width: 2px;
+    height:1130px;
+    position: absolute;
+    top: 0.4em;
+    display: block;
+    left: 50%;
+    background: #000;
+}
+.ch-bott1 {
+    position: relative;
+}
+span.botted {
+    width: 25px;
+    height: 25px;
+    background: url(../images/dot.png)no-repeat 6px 6px;
+    display: block;
+    border-radius: 36px;
+    position: absolute;
+    top: -210px;
+    left: 558px;
+    border: 1px solid #000;
+}
+.changer-main {
+    position: relative;
+}
+.changer-left {
+    float: left;
+    width: 44%;
+}
+.changer-right {
+    float: right;
+    width: 44%;
+}
+.changer-left h3 {
+    font-size: 2.5em;
+    color: #333;
+    font-family: 'Aladin', cursive;
+    margin-bottom: 0.3em;
+}
+.changer-left p {
+    font-size: 1em;
+    color: #000;
+    line-height: 2em;
+}
+.changer-right-snd h3 {
+    font-size: 2.5em;
+    color: #333;
+    font-family: 'Aladin', cursive;
+    margin-bottom: 0.3em;
+}
+.changer-right-snd p {
+    font-size: 1em;
+    color: #000;
+    line-height: 2em;
+}
+.changer-left-trd h3 {
+    font-size: 2.5em;
+    color: #333;
+    font-family: 'Aladin', cursive;
+    margin-bottom: 0.3em;
+}
+.changer-left-trd p {
+    font-size: 1em;
+    color: #000;
+    line-height: 2em;
+}
+.changer-left-snd {
+    float: left;
+    width: 44%;
+}
+.changer-right-snd {
+    float: right;
+    width: 44%;
+}
+.changer-left-trd {
+    float: left;
+    width: 44%;
+}
+.changer-right-trd {
+    float: right;
+    width: 44%;
+}
+.about-block-snd {
+    margin: 3em 0em;
+}

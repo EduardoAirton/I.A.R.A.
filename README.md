@@ -1,5 +1,17 @@
 # I.A.R.A.
-Inteligência Artificial Referente a Assistência (artificial intelligence referent to assintence) is a AI created to help brazilians to organize their time and have access to functionalities that are not available in the country since most of the AI available in the market aren't sold in Brazil and do not have support for portuguese.
+Inteligência Artificial Referente a Assistência (artificial intelligence referent to assintence) is a AI created to help brazilians to organize their time and have access to functionalities that are not available in the country since most of the AI available in the market aren't sold in Brazil and do not have support for portuguese. This is a college project develop during the [Hackatruck](http://www.hackatruck.com.br/) presencial course that focus on Swift developement and IOT sponsored by IBM and Felx in collaboration with Apple and run by the Eldorado Research Institute.
+
+## Project Status
+The project is at an early stage and is being developed so that it can be used by all who need it
+
+## Getting Started
+
+### Prerequisites
+
+## Contributing
+Feel free to send any update 
+
+If you see any code or method here that doesn't work anymore with the current Swift or IBM technologies or is not a good fit, please submit a pull request to improve this file or consider updating it, thank you!
 
 ## Authors
 
@@ -8,5 +20,3 @@ Inteligência Artificial Referente a Assistência (artificial intelligence refer
 * **Luca Peres** - - [GitHub](https://github.com/LucaPres)
 * **Pedro Cavalcante**- [GitHub](https://github.com/PedroCavati)
 * **Samuel Abreu** - [GitHub](https://github.com/Samuel-Abreu)
-
-

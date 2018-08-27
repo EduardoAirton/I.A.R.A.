@@ -8,7 +8,7 @@ The project is at an early stage and is being developed so that it can be used b
 It is necessary to have a [IBM Bluemix](https://console.bluemix.net/) account to use the required tools.
 
 ## Getting Started
-![NodeRed](https://github.com/EduardoAirton/I.A.R.A./tree/master/Pictures/NodeRed.png)
+<img width="712" alt="nodered" src="https://user-images.githubusercontent.com/18244943/44637813-c7a6a100-a989-11e8-8f03-4a7b76f59c0e.png">
 
 ## Contributing
 Feel free to send any update 

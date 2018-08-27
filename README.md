@@ -4,9 +4,11 @@ Inteligência Artificial Referente a Assistência (artificial intelligence refer
 ## Project Status
 The project is at an early stage and is being developed so that it can be used by all who need it
 
-## Getting Started
-
 ### Prerequisites
+It is necessary to have a [IBM Bluemix](https://console.bluemix.net/) account to use the required tools.
+
+## Getting Started
+![NodeRed](https://github.com/EduardoAirton/I.A.R.A./tree/master/Pictures/NodeRed.png)
 
 ## Contributing
 Feel free to send any update 
